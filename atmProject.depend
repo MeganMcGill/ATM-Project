@@ -1,0 +1,126 @@
+# depslib dependency file v1.0
+1335889321 source:u:\cisc\lab 12\atmproject\atmmain.c
+	<stdio.h>
+
+1335887823 source:u:\cisc\lab 12\atmproject\getuserinput.c
+	<stdio.h>
+
+1335888039 source:u:\cisc\lab 12\atmproject\displaymenu.c
+	<stdio.h>
+
+1335889254 source:u:\cisc\lab 12\atmproject\checkbalance.c
+
+1335889172 source:u:\cisc\lab 12\atmproject\accountaccess.c
+	<stdio.h>
+
+1335922228 source:c:\users\0527\documents\cisc\lab12\atmproject\getuserinput.c
+	<stdio.h>
+	<ctype.h>
+
+1336236096 source:c:\users\0527\documents\cisc\lab12\atmproject\atmmain.c
+	"atmMainHeader.h"
+
+1336236260 source:c:\users\0527\documents\cisc\lab12\atmproject\accountaccess.c
+	"accountAccessHeader.h"
+
+1335929575 c:\users\0527\documents\cisc\lab12\atmproject\accountaccess.c
+	<stdio.h>
+
+1336161150 source:f:\atmproject\atmmain.c
+	<stdio.h>
+
+1335991100 f:\atmproject\accountaccess.c
+	<stdio.h>
+
+1336011788 source:f:\atmproject\checkbalance.c
+	<stdio.h>
+
+1336003584 source:f:\atmproject\displaymenu.c
+	<stdio.h>
+
+1335925828 source:f:\atmproject\getuserinput.c
+	<stdio.h>
+	<ctype.h>
+
+1336160898 source:f:\atmproject\accountaccess.c
+	<stdio.h>
+
+1336239696 source:e:\atmproject\atmmain.c
+	"atmMainHeader.h"
+
+1335991980 e:\atmproject\accountaccess.c
+	<stdio.h>
+
+1336011788 source:e:\atmproject\checkbalance.c
+	<stdio.h>
+
+1336003584 source:e:\atmproject\displaymenu.c
+	<stdio.h>
+
+1335925828 source:e:\atmproject\getuserinput.c
+	<stdio.h>
+	<ctype.h>
+
+1336239860 source:e:\atmproject\accountaccess.c
+	"accountAccessHeader.h"
+
+1336172608 source:e:\atmproject\transferfunds.c
+	<stdio.h>
+
+1336010846 source:e:\atmproject\printerror.c
+	<stdio.h>
+
+1336010846 source:f:\atmproject\printerror.c
+	<stdio.h>
+
+1336081592 source:f:\atmproject\transferfunds.c
+	<stdio.h>
+
+1336189992 source:e:\atmproject\withdrawcash.c
+	<stdio.h>
+
+1336194732 source:e:\atmproject\interestoperations.c
+	<stdio.h>
+
+1336230748 source:e:\atmproject\depositmoney.c
+	<stdio.h>
+
+1336235728 source:e:\atmproject\addinteresttoaccount.c
+	<stdio.h>
+
+1336239696 e:\atmproject\atmmainheader.h
+	<stdio.h>
+
+1336239860 e:\atmproject\accountaccessheader.h
+	<stdio.h>
+
+1336236260 c:\users\0527\documents\cisc\lab12\atmproject\accountaccessheader.h
+	<stdio.h>
+
+1336232128 source:c:\users\0527\documents\cisc\lab12\atmproject\addinteresttoaccount.c
+	<stdio.h>
+
+1336236096 c:\users\0527\documents\cisc\lab12\atmproject\atmmainheader.h
+	<stdio.h>
+
+1336008188 source:c:\users\0527\documents\cisc\lab12\atmproject\checkbalance.c
+	<stdio.h>
+
+1336227148 source:c:\users\0527\documents\cisc\lab12\atmproject\depositmoney.c
+	<stdio.h>
+
+1335999984 source:c:\users\0527\documents\cisc\lab12\atmproject\displaymenu.c
+	<stdio.h>
+
+1336007246 source:c:\users\0527\documents\cisc\lab12\atmproject\printerror.c
+	<stdio.h>
+
+1336169008 source:c:\users\0527\documents\cisc\lab12\atmproject\transferfunds.c
+	<stdio.h>
+
+1336186392 source:c:\users\0527\documents\cisc\lab12\atmproject\withdrawcash.c
+	<stdio.h>
+
+1336238784 source:c:\users\0527\documents\cisc\lab12\atmproject\interestoperations.c
+	<stdio.h>
+

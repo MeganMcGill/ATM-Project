@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="accountAccess.c" open="0" top="0" tabpos="3">
+		<Cursor position="32" topLine="0" />
+	</File>
+	<File name="addInterestToAccount.c" open="0" top="0" tabpos="0">
+		<Cursor position="17" topLine="0" />
+	</File>
+	<File name="atmMain.c" open="1" top="1" tabpos="0">
+		<Cursor position="26" topLine="0" />
+	</File>
+	<File name="atmMainHeader.h" open="0" top="0" tabpos="0">
+		<Cursor position="0" topLine="6" />
+	</File>
+	<File name="checkBalance.c" open="0" top="0" tabpos="4">
+		<Cursor position="45" topLine="0" />
+	</File>
+	<File name="depositMoney.c" open="0" top="0" tabpos="8">
+		<Cursor position="250" topLine="0" />
+	</File>
+	<File name="displayMenu.c" open="0" top="0" tabpos="3">
+		<Cursor position="565" topLine="0" />
+	</File>
+	<File name="getUserInput.c" open="0" top="0" tabpos="2">
+		<Cursor position="77" topLine="0" />
+	</File>
+	<File name="interestOperations.c" open="0" top="0" tabpos="2">
+		<Cursor position="213" topLine="2" />
+	</File>
+	<File name="printError.c" open="0" top="0" tabpos="6">
+		<Cursor position="45" topLine="4" />
+	</File>
+	<File name="transferFunds.c" open="0" top="0" tabpos="5">
+		<Cursor position="685" topLine="0" />
+	</File>
+	<File name="withdrawCash.c" open="0" top="0" tabpos="7">
+		<Cursor position="283" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
